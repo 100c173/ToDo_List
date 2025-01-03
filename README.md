@@ -41,16 +41,19 @@ This project is a simple yet interactive **To-Do List App** built using Flutter.
    ```bash
    flutter pub get
 
+## Installation
+
 ### Code Structure
 
-1. main.dart: Contains the main entry point and the entire app logic.
-   
-2. Widgets Used:
-   **TextField:** For user input.
-   **ElevatedButton:** To trigger actions.
-   **ListView:** For displaying the task list.
-   **Checkbox:** To mark tasks as completed.
-   **SnackBar:** For displaying notifications.
+- **main.dart**: Contains the main entry point and the entire app logic.
+
+#### Widgets Used:
+- **TextField**: For user input.
+- **ElevatedButton**: To trigger actions.
+- **ListView**: For displaying the task list.
+- **Checkbox**: To mark tasks as completed.
+- **SnackBar**: For displaying notifications.
+
 
 ## Contact
 
